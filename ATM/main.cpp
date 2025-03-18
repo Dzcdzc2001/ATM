@@ -1,7 +1,8 @@
 #include <stdio.h>
-
+#include "operation.h"
 
 int main() {
-	printf("Hello, World!\n");
+	
+	loaded();
 	return 0;
 }
